@@ -9,7 +9,7 @@ Travelling Korrigan is an independent label run by Horacio, from Brittany, Franc
 
 I looked for offline games to play on flights. Something to empty my head, tired, with no connection. On my Android phone, I kept finding games full of ads, even small ones whose developers probably earn very little from them. So I decided to make the games I wanted to play myself, and to let anyone play them freely.
 
-I make them with the help of AI tools.
+I make them with the help of Claude Code.
 
 ## The promise
 
