@@ -3,7 +3,7 @@
 Small games built on web standards. Play them in a browser, on your phone or your computer, or install them from the app stores.
 **Free to play. Offline. No ads.**
 
-Travelling Korrigan is an independent label run by Horacio, from Brittany, France. A korrigan is a small creature from Breton folklore. This one travels.
+Travelling Korrigan is an independent label run by [Horacio Gonzalez](https://github.com/LostInBrittany), a Spaniard lost in Brittany, France. A korrigan is a small creature from Breton folklore. This one travels.
 
 ## Why
 
@@ -19,7 +19,7 @@ Every game follows the same rules:
 - No ads of any kind.
 - No tracking, no analytics.
 - Free, with no in-app purchases.
-- No tricks to keep you hooked: no timers pushing you, no lives or energy, no streaks, no notifications.
+- No tricks to keep you hooked: no dark patterns, no timers pushing you, no streaks, no notifications.
 
 I make these games for my own pleasure first. If they give you a quiet moment too, good.
 
