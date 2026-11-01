@@ -1,6 +1,6 @@
 # Travelling Korrigan
 
-![The travelling korrigan beside a menhir](korrigan.webp)
+<img src="korrigan.webp" alt="The travelling korrigan beside a menhir" width="320">
 
 Small games built on web standards. Play them in a browser, on your phone or your computer, or install them from the app stores.
 **Free to play. Offline. No ads.**
