@@ -19,7 +19,7 @@ Every game follows the same rules:
 - No ads of any kind.
 - No tracking, no analytics.
 - Free, with no in-app purchases.
-- No tricks to keep you hooked: no dark patterns, no timers pushing you, no streaks, no notifications.
+- No dark patterns: no timers pushing you, no streaks, no notifications. If a game has lives, they are part of the game, never something you wait for or buy.
 
 I make these games for my own pleasure first. If they give you a quiet moment too, good.
 
